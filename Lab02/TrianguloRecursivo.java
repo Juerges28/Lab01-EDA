@@ -1,4 +1,3 @@
-import java.util.*;
 public class TrianguloRecursivo{
 	public static void main(String args[]){
 		trianguloRecursivo(4);
