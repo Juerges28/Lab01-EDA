@@ -1,7 +1,7 @@
 import java.util.*;
 public class TrianguloRecursivo{
 	public static void main(String args[]){
-		trianguloRecursivo(baase);
+		trianguloRecursivo(4);
 	}
 	public static void trianguloRecursivo(int base){
 		if (base==1){
